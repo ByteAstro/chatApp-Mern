@@ -1,0 +1,3 @@
+- This is a chat App 
+- That is developerd using
+- MERN Stack + Socket.io
